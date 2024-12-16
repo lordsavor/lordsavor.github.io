@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.54419f98.js",
-    "index.html": "/index.html",
-    "main.54419f98.js.map": "/static/js/main.54419f98.js.map"
+    "main.js": "/travel_journal_aristo/static/js/main.54419f98.js",
+    "index.html": "/travel_journal_aristo/index.html",
+    "main.54419f98.js.map": "/travel_journal_aristo/static/js/main.54419f98.js.map"
   },
   "entrypoints": [
     "static/js/main.54419f98.js"
